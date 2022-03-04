@@ -1,6 +1,7 @@
-### Hi, I'm Hollin!
-
-[![Hollin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooollin&show_icons=true&theme=solarized-dark)
+### Hi, there!👋
+🧑‍🎓I'm currently a postgraduate student at UESTC, Chengdu.
+**Enjoying Coding!**
+![Hollin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooollin&show_icons=true&theme=solarized-dark)
 <!--
 **Hooollin/Hooollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
