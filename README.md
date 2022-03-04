@@ -1,6 +1,6 @@
 ### Hi, I'm Hollin!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooollin&show_icons=true&theme=solarized-dark](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooollin&show_icons=true&theme=solarized-dark](https://github.com/anuraghazra/github-readme-stats)]
 <!--
 **Hooollin/Hooollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
