@@ -1,5 +1,5 @@
 ### Hi, there!👋
-🧑‍🎓I'm currently a postgraduate student at UESTC, Chengdu.   
+🧑‍🎓I am currently working on my master's degree at UESTC, Chengdu.   
 
 👨‍💻**Enjoy coding!**  
 
