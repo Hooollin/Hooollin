@@ -10,7 +10,7 @@
 | **Languages** | `C/C++` `Go` `Rust` `Python` | 
 
 ## 📫 Get in Touch
-- 📧 Email: [hollinisme@gmail.com]
+- 📧 Email: [hollinisme@gmail.com] or [liuhl20@chinatelecom.cn]
 
 <!--
 **Hooollin/Hooollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
