@@ -1,10 +1,9 @@
-# 👋 Hi, I'm Hollin!
+## 👋 Hi, I'm Hollin!
 
 ☁️ **Cloud Infrastructure Engineer @ [State Cloud (天翼云)](https://www.ctyun.cn/)**  
 🔍 Focused on **High-Performance Distributed Storage** & **Virtualization Technologies**
 
-## 📫 Get in Touch
-- 📧 Email: [hollinisme@gmail.com] or [liuhl20@chinatelecom.cn]
+📧 Email: [hollinisme@gmail.com] or [liuhl20@chinatelecom.cn]
 
 <!--
 **Hooollin/Hooollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
