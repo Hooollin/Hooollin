@@ -3,12 +3,6 @@
 ☁️ **Cloud Infrastructure Engineer @ [State Cloud (天翼云)](https://www.ctyun.cn/)**  
 🔍 Focused on **High-Performance Distributed Storage** & **Virtualization Technologies**
 
-## 🛠️ Core Expertise
-| Domain | Technologies & Tools |
-|---|---|
-| **Storage** | `SPDK` `NVMe-oF` `RDMA` `Distributed Block/Object` `Storage QoS` |
-| **Languages** | `C/C++` `Go` `Rust` `Python` | 
-
 ## 📫 Get in Touch
 - 📧 Email: [hollinisme@gmail.com] or [liuhl20@chinatelecom.cn]
 
